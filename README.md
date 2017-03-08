@@ -33,5 +33,5 @@ Assuming that your program is called weather.py, then a sample run will look lik
 * Include a readme.txt file explaining how to run your code, and detailing any assumptions you have made.
 * Focus on producing a **correct** and **efficient** solution with well-organized, readable code.
 
- [weather.dat](../blob/master/weather.dat)
+ [weather.dat](https://github.com/qymspace/weather/blob/master/weather.dat)
 
